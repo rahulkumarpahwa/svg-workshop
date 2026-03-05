@@ -1,0 +1,14 @@
+What percentage of web content is typically composed of images according to the HTTP archive?
+Most of what is delivered across the web is images, making them the heaviest content type
+
+What potential file size reduction can be achieved by optimizing an SVG loader?
+An example was provided where a loader was reduced from 150 kilobytes to 6 kilobytes
+
+What is a key benefit of converting images like JPEG to SVG?
+File size reduction - for example, reducing an image from 38 kilobytes to 16 kilobytes
+
+Why are images critical to consider when discussing web performance?
+Images represent the heaviest content delivered across the web and significantly impact site performance
+
+What makes SVG particularly useful for web performance?
+SVG offers small file sizes, scalability, and can be optimized to provide visual information with minimal performance cost
