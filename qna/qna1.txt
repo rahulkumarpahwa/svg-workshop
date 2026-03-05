@@ -1,0 +1,16 @@
+What makes SVG unique in terms of image display across different devices?
+SVG is crisp on any display because it uses vector graphics, which are drawn with mathematical points. No matter the size, the image remains completely sharp and clear.
+
+
+What are the performance advantages of using SVG?
+SVG offers small file sizes, fewer HTTP requests (can be inline in HTML), easy scalability for responsive design, and minimal data usage compared to PNG or JPEG images.
+
+How is SVG different from raster images like PNG in terms of manipulation?
+SVG has a navigable DOM, meaning individual elements can be independently moved, styled with CSS, and manipulated with JavaScript, unlike flat raster images that require complex manual editing.
+
+
+What makes SVG particularly good for web development?
+SVG is easy to animate, scale, make accessible, and can be directly manipulated using standard web development techniques like CSS and JavaScript.
+
+What does the acronym SVG stand for, and what key characteristic does this name highlight?
+SVG stands for Scalable Vector Graphics, emphasizing its ability to scale and resize without losing image quality.
