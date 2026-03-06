@@ -1,0 +1,23 @@
+What property can be removed from an SVG to make it expand to fill its container?
+width and height properties.
+
+How does SVG help with text positioning and responsiveness?
+SVG allows text elements to remain readable, accessible to screen readers, and can contract and move while maintaining visual consistency
+
+What advantage does SVG offer when positioning multiple elements compared to CSS?
+SVG makes it easier to position elements consistently across different screen sizes and keep their relative positions intact
+
+What makes SVG useful for complex visual layouts?
+SVG allows precise positioning of text, images, and other elements while maintaining scalability and responsiveness
+
+How can SVG be used in page transitions?
+SVG elements can change shape and transform while maintaining visual consistency across different pages
+
+How does SVG maintain consistency when scaling or positioning elements?
+By preserving relative positioning of internal elements
+
+What type of elements can be consistently positioned and scaled within an SVG?
+Text, images, and bitmap graphics\
+
+
+
