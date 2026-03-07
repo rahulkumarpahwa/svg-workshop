@@ -1,0 +1,14 @@
+What is the SVG coordinate system conceptually compared to?
+An infinite piece of graph paper where elements can be positioned using x and y coordinates, similar to the game Battleship's coordinate system
+
+What are the three attributes required to draw a circle in SVG?
+cx (center x-coordinate), cy (center y-coordinate), and radius
+
+How do polygon shapes define their points in SVG?
+Using an array of x, y coordinate pairs that define the vertices, with the shape automatically closing by wrapping from the last point back to the first
+
+What attributes are used to draw a line in SVG?
+x1, y1 (starting point coordinates) and x2, y2 (ending point coordinates)
+
+What is the viewBox in SVG and how does it function?
+The viewBox is a window through which you view the infinite coordinate space, allowing you to see only a specific portion of the SVG coordinate system
