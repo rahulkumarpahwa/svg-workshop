@@ -1,0 +1,15 @@
+What does the SVG viewbox represent?
+A piece of graph paper that can be shrunk or expanded while maintaining the same plotting points
+
+What happens to SVG elements positioned outside the viewbox?
+They are clipped and not displayed, but still exist within the SVG structure
+
+How can SVG viewbox be used for animation or revealing elements?
+By moving elements outside the viewbox and then bringing them into view, creating a clipping effect
+
+How does SVG viewbox differ from image cropping in a JPEG?
+In SVG, elements outside the viewbox are still present in the file, whereas in JPEG they are permanently removed
+
+What potential issue can occur when designers export SVG files?
+They might accidentally include additional unintended elements from outside the main artboard
+
